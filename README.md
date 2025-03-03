@@ -34,3 +34,9 @@
 git clone https://github.com/Aakashshinde99/Investor-Report-Analyzer.git
 cd Investor-Report-Analyzer
 
+### Windows  
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python main.py
+
